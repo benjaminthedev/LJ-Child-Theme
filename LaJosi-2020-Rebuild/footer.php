@@ -23,8 +23,9 @@
 		<li><a href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
 		</ul>
 	</div>
-
-
+<!--	<div class="current__converter">
+		<?php // echo do_shortcode('[woocs]'); ?>	
+	</div> -->
 	<div class="footer__nav">
 		<ul>
 			<li><a href="https://lajosi.com.au/fitting/">Fitting</a></li>

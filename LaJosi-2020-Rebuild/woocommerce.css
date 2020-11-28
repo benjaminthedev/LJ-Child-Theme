@@ -446,7 +446,7 @@ p.stars.selected a:not(.active)::before {
 }
 
 .required {
-	color: #f00;
+	color: #070D81;
 }
 
 /**
@@ -576,7 +576,7 @@ p.no-comments {
 /* Product Cat Pages */
 
 header.woocommerce-products-header {
-	background: linear-gradient(rgba(0, 29, 88, 0.79), rgba(0, 29, 88, 0.79)), url(https://wordpress-293167-1596502.cloudwaysapps.com/wp-content/uploads/2020/11/AustralianMilled.png);
+	background: linear-gradient(rgba(0, 29, 88, 0.79), rgba(0, 29, 88, 0.79)), url(https://lajosi.com.au/wp-content/uploads/2020/11/AustralianMilled.png);
     padding: 40px 60px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -886,3 +886,44 @@ h3#ship-to-different-address {
 ul.woocommerce-error {
     margin: 0;
 }
+
+
+/* New Styles */
+.woocommerce .quantity input.qty {
+	color: #000000 !important;
+}
+
+.woocommerce-page #coupon_code.input-text {
+    background-color: #fff !important;
+    color: #000 !important;
+    font-size: 16px !important;
+}
+
+.coupon {
+	display : inline !important;
+}
+
+.woocommerce-info, .woocommerce-noreviews, p.no-comments, .woocommerce-message, .woocommerce-error, .woocommerce-info {
+    background: #070D81 !important;
+	color: #fff;
+}
+
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+	height: 55px !important;
+}
+
+.woocommerce-currency-switcher-form a.dd-option {
+	color:#000 !important;
+}
+
+.current__converter {
+	max-width: 120px !important;
+}
+
+.woocommerce-error, .woocommerce-info, .woocommerce-message{
+	color:#fff !important;
+}
+
+
+
+

@@ -45,6 +45,9 @@
 			<li>
 				<a href="/cart/"><img src="https://lajosi.com.au/wp-content/uploads/2020/11/shopping-cart.png" alt="lasjoi shopping cart"></a>
 			</li>
+			<li class="current__converter">
+				<?php echo do_shortcode('[woocs]'); ?>
+			</li>
 		</ul>
 	</div>
 </div>
