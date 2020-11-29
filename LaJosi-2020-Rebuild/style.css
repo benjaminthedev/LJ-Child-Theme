@@ -1500,6 +1500,16 @@ nav.woocommerce-breadcrumb {
 	width: 30vw !important;
 }
 
+/* Custom Pro */
+
+.row {
+    display: flex;
+    width: 80vw;
+    margin: 0 auto;
+}
+
+
+
 /*--------------------------------------------------------------
 # Responsive Styles 
 --------------------------------------------------------------*/
